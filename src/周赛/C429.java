@@ -19,6 +19,7 @@ public class C429 {
                 set.add(nums[i]);
             }
 //            System.out.println(set.size());
+            //
             int n = nums.length-set.size();
             return n%3==0?n/3:n/3+1;
         }
