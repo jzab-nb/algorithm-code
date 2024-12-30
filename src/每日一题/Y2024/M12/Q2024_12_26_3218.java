@@ -1,4 +1,4 @@
-package 每日一题;
+package 每日一题.Y2024.M12;
 
 public class Q2024_12_26_3218 {
     public static void main(String[] args) {

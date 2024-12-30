@@ -1,8 +1,7 @@
-package 每日一题;
+package 每日一题.Y2024.M12;
 
 import java.util.Arrays;
 import java.util.Comparator;
-import java.util.List;
 import java.util.stream.Collectors;
 
 public class Q2024_12_21_2545 {
