@@ -27,5 +27,7 @@ public class Q2025_01_02_729 {
         System.out.println(myCalendar.book(10, 20));;
         System.out.println(myCalendar.book(15, 25));;
         System.out.println(myCalendar.book(20, 30));;
+        // 25年12月的rw——detailt 更新到24年12月
+        //
     }
 }
