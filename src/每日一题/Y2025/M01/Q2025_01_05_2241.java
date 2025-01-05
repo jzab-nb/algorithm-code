@@ -2,7 +2,7 @@ package 每日一题.Y2025.M01;
 
 import java.util.Arrays;
 
-public class Q2025_01_04_2241 {
+public class Q2025_01_05_2241 {
     public static void main(String[] args) {
         ATM atm = new ATM();
         atm.deposit(new int[]{0,0,1,2,1});
